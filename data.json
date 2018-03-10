@@ -1,0 +1,40 @@
+{
+  "basics":{
+    "photo":"img2.png",
+    "name":"susmitha",
+    "phone":"9491394985",
+    "email":"susmitha.challa.26@gmail.com",
+    "Address":"(D/o)Venkatarami reddy,Alavalapadu,Prakasam district,A.P"
+  },
+"education":[{
+  "course":"B.tech(computer science and engineering)",
+  "institute":"sir crr engg",
+  "data":["2015-2019","93%"]
+},
+  {
+    "course":"inter(mpc)",
+    "institute":"narayana jr clg",
+    "data":["2013-2015","97%"]
+  },
+  {
+    "course":"ssc",
+    "institute":"Bhavishya high school",
+    "data":["2012-2013","97%"]
+  }
+],
+"skills":[
+  {
+  "name":"languages",
+  "data":["c","JAVA","php"]
+},
+{
+  "name":"web technologies",
+  "data":["HTML","CSS","php"]
+},
+{
+  "name":"os",
+  "data":["windows","linux","unix"]
+}
+
+]
+}
